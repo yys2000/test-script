@@ -1,0 +1,4 @@
+"use strict";
+// import { expect as expectCDK, haveResourceLike } from '@aws-cdk/assert';
+// import * as cdk from '@aws-cdk/core';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibGFtYmRhLnRlc3QuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJsYW1iZGEudGVzdC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsMkVBQTJFO0FBQzNFLHdDQUF3QyIsInNvdXJjZXNDb250ZW50IjpbIi8vIGltcG9ydCB7IGV4cGVjdCBhcyBleHBlY3RDREssIGhhdmVSZXNvdXJjZUxpa2UgfSBmcm9tICdAYXdzLWNkay9hc3NlcnQnO1xuLy8gaW1wb3J0ICogYXMgY2RrIGZyb20gJ0Bhd3MtY2RrL2NvcmUnO1xuIl19

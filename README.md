@@ -1,1 +1,1 @@
-# test-script
+# test-script for CDK eventbridge
